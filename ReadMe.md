@@ -2,10 +2,10 @@
 
 ## Description
 
-Aurthor - Yash Mangal
-Twitter - [@mangal_yash](https://twitter.com/mangal_yash)
-Github - [yashmangal1203](https://github.com/yashmangal1203)
-Language - Python
+Aurthor - Yash Mangal  
+Twitter - [@mangal_yash](https://twitter.com/mangal_yash)  
+Github - [yashmangal1203](https://github.com/yashmangal1203)  
+Language - Python  
 
 Hi My name is Yash Mangal, I'm a python beginner. I recently came accross **Advent of code** on my Twitter and decided to solve these problems and see how much I've learnt.
 
