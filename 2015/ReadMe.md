@@ -6,7 +6,7 @@
 | --- | -------------------------------------- | ------------ | --------------------- |
 | 1   | Not Quite Lisp                         | [Day1](Day1) | :heavy_check_mark:    |
 | 2   | I Was Told There Would Be No Math      | [Day2](Day2) | :heavy_check_mark:    |
-| 3   | Perfectly Spherical Houses in a Vacuum | [Day3]       | :black_square_button: |
+| 3   | Perfectly Spherical Houses in a Vacuum | [Day3](Day3) | :heavy_check_mark:    |
 | 4   | The Ideal Stocking Stuffer             | [Day4]       | :black_square_button: |
 | 5   | Doesn't He Have Intern-Elves For This? | [Day5]       | :black_square_button: |
 | 6   | Probably a Fire Hazard                 | [Day6]       | :black_square_button: |
