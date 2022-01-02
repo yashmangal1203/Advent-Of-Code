@@ -3,7 +3,6 @@ with open('2015\Day2\input.txt') as input:
 
 giftlist = puzzleinput.split('\n')
 totalribbon = 0
-# giftlist = ['2x3x4','1x1x10']
 
 for gift in giftlist:
     l, w, h = list(map(int, gift.split('x')))
