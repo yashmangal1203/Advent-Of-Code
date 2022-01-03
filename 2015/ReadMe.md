@@ -8,7 +8,7 @@
 | 2   | I Was Told There Would Be No Math      | [Day2](Day2) | :heavy_check_mark:    |
 | 3   | Perfectly Spherical Houses in a Vacuum | [Day3](Day3) | :heavy_check_mark:    |
 | 4   | The Ideal Stocking Stuffer             | [Day4](Day4) | :heavy_check_mark:    |
-| 5   | Doesn't He Have Intern-Elves For This? | [Day5]       | :black_square_button: |
+| 5   | Doesn't He Have Intern-Elves For This? | [Day5](Day5) | :heavy_check_mark:    |
 | 6   | Probably a Fire Hazard                 | [Day6]       | :black_square_button: |
 | 7   | Some Assembly Required                 | [Day7]       | :black_square_button: |
 | 8   | Matchsticks                            | [Day8]       | :black_square_button: |
