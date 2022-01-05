@@ -10,7 +10,7 @@
 | 4   | The Ideal Stocking Stuffer             | [Day4](Day4) | :white_check_mark:    |
 | 5   | Doesn't He Have Intern-Elves For This? | [Day5](Day5) | :white_check_mark:    |
 | 6   | Probably a Fire Hazard                 | [Day6](Day6) | :white_check_mark:    |
-| 7   | Some Assembly Required                 | [Day7]       | :black_square_button: |
+| 7   | Some Assembly Required                 | [Day7](Day7) | :white_check_mark:    |
 | 8   | Matchsticks                            | [Day8]       | :black_square_button: |
 | 9   | All in a Single Night                  | [Day9]       | :black_square_button: |
 | 10  | Elves Look, Elves Say                  | [Day10]      | :black_square_button: |
