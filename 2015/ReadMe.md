@@ -12,7 +12,7 @@
 | 6   | Probably a Fire Hazard                 | [Day6](Day6) | :white_check_mark:    |
 | 7   | Some Assembly Required                 | [Day7](Day7) | :white_check_mark:    |
 | 8   | Matchsticks                            | [Day8](Day8) | :white_check_mark:    |
-| 9   | All in a Single Night                  | [Day9]       | :black_square_button: |
+| 9   | All in a Single Night                  | [Day9](Day9) | :white_check_mark:    |
 | 10  | Elves Look, Elves Say                  | [Day10]      | :black_square_button: |
 | 11  | Corporate Policy                       | [Day11]      | :black_square_button: |
 | 12  | JSAbacusFramework.io                   | [Day12]      | :black_square_button: |
