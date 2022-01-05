@@ -14,7 +14,7 @@
 | 8   | Matchsticks                            | [Day8](Day8)   | :white_check_mark:    |
 | 9   | All in a Single Night                  | [Day9](Day9)   | :white_check_mark:    |
 | 10  | Elves Look, Elves Say                  | [Day10](Day10) | :white_check_mark:    |
-| 11  | Corporate Policy                       | [Day11]        | :black_square_button: |
+| 11  | Corporate Policy                       | [Day11](Day11) | :white_check_mark:    |
 | 12  | JSAbacusFramework.io                   | [Day12]        | :black_square_button: |
 | 13  | Knights of the Dinner Table            | [Day13]        | :black_square_button: |
 | 14  | Reindeer Olympics                      | [Day14]        | :black_square_button: |
