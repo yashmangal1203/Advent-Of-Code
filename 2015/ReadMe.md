@@ -17,7 +17,7 @@
 | 11  | Corporate Policy                       | [Day11](Day11) | :white_check_mark:    |
 | 12  | JSAbacusFramework.io                   | [Day12](Day12) | :white_check_mark:    |
 | 13  | Knights of the Dinner Table            | [Day13](Day13) | :white_check_mark:    |
-| 14  | Reindeer Olympics                      | [Day14]        | :black_square_button: |
+| 14  | Reindeer Olympics                      | [Day14](Day14) | :white_check_mark:    |
 | 15  | Science for Hungry People              | [Day15]        | :black_square_button: |
 | 16  | Aunt Sue                               | [Day16]        | :black_square_button: |
 | 17  | No Such Thing as Too Much              | [Day17]        | :black_square_button: |
