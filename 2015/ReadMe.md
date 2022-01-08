@@ -19,7 +19,7 @@
 | 13  | Knights of the Dinner Table            | [Day13](Day13) | :white_check_mark:    |
 | 14  | Reindeer Olympics                      | [Day14](Day14) | :white_check_mark:    |
 | 15  | Science for Hungry People              | [Day15](Day15) | :white_check_mark:    |
-| 16  | Aunt Sue                               | [Day16]        | :black_square_button: |
+| 16  | Aunt Sue                               | [Day16](Day16) | :white_check_mark:    |
 | 17  | No Such Thing as Too Much              | [Day17]        | :black_square_button: |
 | 18  | Like a GIF For Your Yard               | [Day18]        | :black_square_button: |
 | 19  | Medicine for Rudolph                   | [Day19]        | :black_square_button: |
