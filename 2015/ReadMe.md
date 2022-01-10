@@ -21,7 +21,7 @@
 | 15  | Science for Hungry People              | [Day15](Day15) | :white_check_mark:    |
 | 16  | Aunt Sue                               | [Day16](Day16) | :white_check_mark:    |
 | 17  | No Such Thing as Too Much              | [Day17](Day17) | :white_check_mark:    |
-| 18  | Like a GIF For Your Yard               | [Day18]        | :black_square_button: |
+| 18  | Like a GIF For Your Yard               | [Day18](Day18) | :white_check_mark:    |
 | 19  | Medicine for Rudolph                   | [Day19]        | :black_square_button: |
 | 20  | Infinite Elves and Infinite Houses     | [Day20]        | :black_square_button: |
 | 21  | RPG Simulator 20XX                     | [Day21]        | :black_square_button: |
