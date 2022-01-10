@@ -42,6 +42,7 @@ def did_Player_Win(phealth, bhealth, pattack, battack):
 
 gold = []
 
+# You could use it.product as well reduces the 3 nested loopt to 1 loop!
 for weapon in weapons.keys():
     for armor in armors.keys():
         for perm in it.combinations(rings.keys(), 2):

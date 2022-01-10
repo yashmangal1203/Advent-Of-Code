@@ -25,7 +25,7 @@
 | 19  | Medicine for Rudolph                   | [Day19](Day19) | :white_check_mark:    |
 | 20  | Infinite Elves and Infinite Houses     | [Day20](Day20) | :white_check_mark:    |
 | 21  | RPG Simulator 20XX                     | [Day21](Day21) | :white_check_mark:    |
-| 22  | Wizard Simulator 20XX                  | [Day22]        | :black_square_button: |
+| 22  | Wizard Simulator 20XX                  | [Day22](Day22) | :white_check_mark:    |
 | 23  | Opening the Turing Lock                | [Day23]        | :black_square_button: |
 | 24  | It Hangs in the Balance                | [Day24]        | :black_square_button: |
 | 25  | Let It Snow                            | [Day25]        | :black_square_button: |
