@@ -19,9 +19,9 @@ Since I'm late anyway. I'm gonna be beginning from the 2015 Event.
 - [ ] 2020
 - [ ] 2019
 - [ ] 2018
-- [ ] 2017
-- [ ] 2016
-- [ ] 2015
+- [ ] 2017  
+- [ ] 2016  
+:white_check_mark: 2015 (**Completed on - 11/01/2022**)
 
 ## Structure of the Repo
 
