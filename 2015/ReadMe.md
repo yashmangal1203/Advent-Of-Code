@@ -1,5 +1,7 @@
 # Advent Of Code 2015
 
+![2015](2015Homepage.JPG)
+
 ## Progress
 
 | Day | Name                                   | Link           | Done?              |
