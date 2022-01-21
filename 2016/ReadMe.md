@@ -9,10 +9,10 @@
 | 3   | Squares With Three Sides        | [Day3](Day3)   | :white_check_mark:    |
 | 4   | Security Through Obscurity      | [Day4](Day4)   | :white_check_mark:    |
 | 5   | How About a Nice Game of Chess? | [Day5](Day5)   | :white_check_mark:    |
-| 6   |                                 | [Day6](Day6)   | :black_square_button: |
-| 7   |                                 | [Day7](Day7)   | :black_square_button: |
-| 8   |                                 | [Day8](Day8)   | :black_square_button: |
-| 9   |                                 | [Day9](Day9)   | :black_square_button: |
+| 6   | Signals and Noise               | [Day6](Day6)   | :white_check_mark:    |
+| 7   | Internet Protocol Version 7     | [Day7](Day7)   | :white_check_mark:    |
+| 8   | Two-Factor Authentication       | [Day8](Day8)   | :white_check_mark:    |
+| 9   | Explosives in Cyberspace        | [Day9](Day9)   | :white_check_mark:    |
 | 10  |                                 | [Day10](Day10) | :black_square_button: |
 | 11  |                                 | [Day11](Day11) | :black_square_button: |
 | 12  |                                 | [Day12](Day12) | :black_square_button: |
