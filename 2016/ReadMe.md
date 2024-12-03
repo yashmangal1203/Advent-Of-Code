@@ -13,7 +13,7 @@
 | 7   | Internet Protocol Version 7     | [Day7](Day7)   | :white_check_mark:    |
 | 8   | Two-Factor Authentication       | [Day8](Day8)   | :white_check_mark:    |
 | 9   | Explosives in Cyberspace        | [Day9](Day9)   | :white_check_mark:    |
-| 10  |                                 | [Day10](Day10) | :black_square_button: |
+| 10  | Balance Bots                    | [Day10](Day10) | :white_check_mark:    |
 | 11  |                                 | [Day11](Day11) | :black_square_button: |
 | 12  |                                 | [Day12](Day12) | :black_square_button: |
 | 13  |                                 | [Day13](Day13) | :black_square_button: |
